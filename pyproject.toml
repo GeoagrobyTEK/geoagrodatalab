@@ -10,13 +10,13 @@ requires-python = ">=3.8"
 keywords = [
     "geoagrodatalab",
 ]
-license = {text = "Not open source"}
+license = {text = "MIT License"}
 authors = [
   {name = "Mariano Bonelli", email = "mbonelli@geoagro.com"},
 ]
 classifiers = [
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: Not open source",
+    "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
