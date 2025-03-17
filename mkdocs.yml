@@ -40,7 +40,7 @@ plugins:
     - search
     - mkdocstrings:
         handlers:
-            python: python-legacy
+            python: python_legacy
     - git-revision-date
     - git-revision-date-localized:
         enable_creation_date: true
