@@ -17,5 +17,5 @@ If you don't have [pip](https://pip.pypa.io) installed, this [Python installatio
 To install geoagrodatalab from sources, run this command in your terminal:
 
 ```
-pip install git+https://github.com/marianobonelli/geoagrodatalab
+pip install git+https://github.com/GeoagrobyTEK/geoagrodatalab
 ```

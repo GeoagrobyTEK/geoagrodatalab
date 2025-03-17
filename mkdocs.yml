@@ -1,8 +1,8 @@
 site_name: geoagrodatalab
 site_description: Python Package for GeoAgro DataLab
-site_author: marianobonelli
-site_url: https://marianobonelli.github.io/geoagrodatalab
-repo_url: https://github.com/marianobonelli/geoagrodatalab
+site_author: GeoagrobyTEK
+site_url: https://GeoagrobyTEK.github.io/geoagrodatalab
+repo_url: https://github.com/GeoagrobyTEK/geoagrodatalab
 
 copyright: "Copyright &copy; 2024 - 2024 Mariano Bonelli"
 
@@ -78,7 +78,7 @@ nav:
     - Contributing: contributing.md
     - FAQ: faq.md
     - Changelog: changelog.md
-    - Report Issues: https://github.com/marianobonelli/geoagrodatalab/issues
+    - Report Issues: https://github.com/GeoagrobyTEK/geoagrodatalab/issues
     - Examples:
         - examples/intro.ipynb
     - API Reference:
