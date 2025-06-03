@@ -38,8 +38,7 @@ theme:
 
 plugins:
     - search
-    - mkdocstrings:
-        default_handler: python_legacy
+    - mkdocstrings:   # usa el handler ‘python’ por defecto sin necesidad de configurarlo manualmente
     - git-revision-date
     - git-revision-date-localized:
         enable_creation_date: true
