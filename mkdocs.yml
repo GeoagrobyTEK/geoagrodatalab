@@ -38,19 +38,8 @@ theme:
 
 plugins:
     - search
-    - mkdocstrings:
-        default_handler: python_legacy
+    - mkdocstrings
     - git-revision-date
-    - git-revision-date-localized:
-        enable_creation_date: true
-        type: timeago
-    - mkdocs-jupyter:
-        include_source: True
-        ignore_h1_titles: True
-        execute: True
-        allow_errors: false
-        ignore: ["conf.py"]
-        execute_ignore: ["*ignore.ipynb"]
 
 
 markdown_extensions:
