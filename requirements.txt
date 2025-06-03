@@ -1,3 +1,1 @@
 numpy
-mkdocstrings
-mkdocstrings-handlers-python
