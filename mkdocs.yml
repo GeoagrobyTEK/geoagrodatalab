@@ -39,8 +39,7 @@ theme:
 plugins:
     - search
     - mkdocstrings:
-        handlers:
-            python: python_legacy
+        default_handler: python_legacy
     - git-revision-date
     - git-revision-date-localized:
         enable_creation_date: true
@@ -52,6 +51,7 @@ plugins:
         allow_errors: false
         ignore: ["conf.py"]
         execute_ignore: ["*ignore.ipynb"]
+
 
 markdown_extensions:
     - admonition
