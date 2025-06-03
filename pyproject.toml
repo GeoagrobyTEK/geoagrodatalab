@@ -13,6 +13,7 @@ keywords = [
 license = {text = "MIT License"}
 authors = [
 {name = "Thomas Varela", email = "tvarela@geoagro.com"},
+{name = "Nicolas Soria", email = "nsoria@geoagro.com"},
 {name = "Mariano Bonelli", email = "mbonelli@geoagro.com"}
 ]
 classifiers = [
