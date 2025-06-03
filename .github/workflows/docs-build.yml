@@ -2,8 +2,7 @@ name: docs-build
 on:
     pull_request:
         branches:
-            - main
-            - dev
+            - main            
 jobs:
     deploy:
         runs-on: ubuntu-latest
