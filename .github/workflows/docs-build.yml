@@ -2,6 +2,7 @@ name: docs-build
 on:
     pull_request:
         branches:
+            - main
             - dev
 jobs:
     deploy:
