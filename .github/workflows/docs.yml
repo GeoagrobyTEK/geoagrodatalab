@@ -2,8 +2,7 @@ name: docs
 on:
     push:
         branches:
-            - main
-            - dev
+            - main            
 jobs:
     deploy:
         runs-on: ubuntu-latest
