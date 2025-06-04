@@ -2,6 +2,13 @@
 
 ## v0.0.2 - May 3, 2025
 
+-   The **translate** function has been incorporated into the package to facilitate obtaining translations.
+
+-   Available languages: Spanish (es), English (en), and Portuguese (pt).
+
+
+## v0.0.2 - May 3, 2025
+
 -   Documentation
 
 
