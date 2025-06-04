@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.1 - May 4, 2025
+
+-   New translations have been added.
+
 ## v1.0.0 - May 4, 2025
 
 -   The **translate** function has been incorporated into the package to facilitate obtaining translations.
