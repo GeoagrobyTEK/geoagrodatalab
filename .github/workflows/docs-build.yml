@@ -28,7 +28,7 @@ jobs:
                   pip install -r requirements.txt -r requirements_dev.txt
                   pip install .
             - name: Discover typos with codespell
-              run: codespell --skip="*.csv,*.geojson,*.json,*.js,*.html,*cff,*.pdf,./.git" --ignore-words-list="aci,acount,hist,datas,ser"
+              run: codespell --skip="*.csv,*.geojson,*.json,*.js,*.html,*cff,*.pdf,./.git" --ignore-words-list="aci,acount,hist,datas,ser,anual"
             - name: PKG-TEST
               run: |
                   python -m unittest discover tests/
