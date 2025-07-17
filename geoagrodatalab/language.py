@@ -331,8 +331,8 @@ translate_dict = {'accumulated_hectares': {'en': 'Accumulated hectares', 'es': '
  'hectares_per_harvest_date': {'en': 'Hectares per harvest date',
                                'es': 'Hectáreas por fecha de cosecha',
                                'pt': 'Hectares por data de colheita'},
- 'hidric_risk_description': {'en': 'This interactive panel provides tool to analyze, for each plot of an '
-                                   'establishment, the detection of surface water presence using satellite imagery.',
+ 'hidric_risk_description': {'en': 'This interactive panel provides tools to analyze, for each field on a farm,'
+                                    'the detection of surface water presence using satellite imagery.',
                              'es': 'Este panel interactivo ofrece una herramienta para analizar, para cada lote de un '
                                    'establecimiento, la detección de la presencia de agua en superficie mediante el '
                                    'uso de imágenes satelitales.',
