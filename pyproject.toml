@@ -6,7 +6,7 @@ dynamic = [
 ]
 description = "Python Package for GeoAgro DataLab"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.8"
 keywords = [
     "geoagrodatalab",
 ]
@@ -20,6 +20,7 @@ classifiers = [
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
+    "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
