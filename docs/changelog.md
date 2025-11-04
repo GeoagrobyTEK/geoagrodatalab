@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.0 - November 4, 2025
+
+- New dictionary management
+
+## v1.0.4 - July 17, 2025
+
+-   New translations have been added.
+
 ## v1.0.3 - July 17, 2025
 
 -   New translations have been added.
